@@ -7,7 +7,7 @@ Data were extracted from images that were taken from genuine and forged banknote
 
 In this repository there are may folder, which are all for the same "Bank note authentication" projects but using different deployment techniques. Following are the folders with details,
 
-1.Data sets
+1. Data sets
 
 This folder contains two CSV files, namely 
  * 'BankNote_Authentication.csv' used to train the model and,
