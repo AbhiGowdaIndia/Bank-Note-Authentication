@@ -34,3 +34,7 @@ Here the model is deployed in AWS EC2 using streamlit.</br>
 Here the model is dockerized and deployed in AWS EC2 using Flasgger.
 * http://ec2-3-82-142-165.compute-1.amazonaws.com:8000/apidocs/ This is the URL of the app where we can see the result of the project since it is dockerized, deployed and running on AWS EC2 instance.
 
+
+When you click on the URLs the resultent page will open where you can see the result just by enter the values or by choosing a file. The file should be a csv file and should be in the same format as the file we used to train the model, so we can use the 'Testfile.csv' file which is in 'Data sets' folder.
+
+Thank you.
