@@ -9,5 +9,5 @@ In this repository there are may folder, which are all for the same "Bank note a
 
  1. Flask
  
- Here the model is deployed using flask.
+ Here the model is deployed using flask.</br>
  The folder contains the necessry file to run the app. 'flask_api.py' is the file which we need to run to see the result. we can see the result in url which we get when we run the app or with the help of the 'post man' software which is a popular API client that makes it easy for developers to create, share, test and document APIs.
