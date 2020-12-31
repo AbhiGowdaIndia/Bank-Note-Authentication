@@ -1,5 +1,5 @@
 # Bank-Note-Authentication
-Bank note authentication using machine learning.
+Bank note authentication using machine learning. It is a complete end-to-end project.
 
 The data set is available in kaggle.
 
