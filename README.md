@@ -16,7 +16,7 @@ This folder contains two CSV files, namely
  2. Streamlit
 
 Here the model is deployed in AWS EC2 using streamlit.</br>
-* http://ec2-3-83-217-79.compute-1.amazonaws.com:8501/ This is the URL of the app where we can see the result of the project since it is deployed and running on AWS EC2 instance.
+* http://ec2-54-91-121-135.compute-1.amazonaws.com:8501// This is the URL of the app where we can see the result of the project since it is deployed and running on AWS EC2 instance.
 
 3. Flask
  
